@@ -105,6 +105,21 @@ number_list.sum()
 # See code from Mon
 
 
+#%% Types of strings, special characters
+
+print(f'f-strings replace curlies like {3+4}')
+
+x = 19
+print(f'f-strings replace curlies like {x}')
+print(f'f-strings replace curlies like {x-8}')
+
+print('One line\nTwo lines')
+print(r'One line\nTwo lines')
+print('One line\\nTwo\n lines')
+
+print('Here\t\tThere\tAnd Everywhere')
+
+
 #%% Flow control
 
 # For loops
